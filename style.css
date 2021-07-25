@@ -1,0 +1,42 @@
+.header{
+    color: rgb(136, 255, 0);
+    text-align:center;
+    font-size: 100px;
+}
+
+.container{
+text-align: center;
+}
+
+.inputfield{
+    padding: 20px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.btn{
+    background-color: slategray;
+    padding: 15px;
+    border-radius: 5px;
+    color: snow;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.result{
+text-align: center;
+font-size: 24px;
+color:black;
+padding: 15px;
+height: 30px;
+width: 400px;
+margin-left: 740px;
+margin-bottom: 10px;
+}
+
+.result1{
+    text-align: center;
+    font-size: 24px;
+    color:black;
+    list-style: none;
+}
